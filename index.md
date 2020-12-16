@@ -14,7 +14,7 @@ humantime: "13:00 - 17:00"    # human-readable times for the workshop (e.g., "9:
 startdate: 2020-12-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-10-9        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Jose Carlos Urra Llanusa","Nicolas Dintzner"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: [ "To be announced"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: [ "Susan Branchett", "Esther Plomp", "Yan Wang", "Manuel Garcia Alvarez", "Maurits Kok", "Heather Andrews", "Ashley Cryan", "Niket Agrawal", "Amir Ebrahimi Fard", "Olger Siebinga", "Twan Keijzer", "Neel Nagda"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["F.vanGiessen@tudelft.nl", "e.plomp@tudelft.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-12-01-delft  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:  118471325925 #software-carpentry-workshop-1-2-89-of-december-afternoons-online-tickets-118471325925        # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
